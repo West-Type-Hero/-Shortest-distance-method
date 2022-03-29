@@ -1,2 +1,1 @@
-# -Shortest-distance-method
-最短距離法を実現するソース
+タグ距離法をするソース
